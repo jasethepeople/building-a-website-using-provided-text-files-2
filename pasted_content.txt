@@ -1,0 +1,8 @@
+creative website, a personal portfolio website.
+I want it responsive, so it works on all different devices. I wanted to include the attached resume. I wanted to link to my photography site: https://www.frommyeyestoyours.org/. Have it linked to my facebook, x, pentrest, etc...: @ jasonclarkagain
+I wanted to have a contact page which, when filled out and submitted.It sends me an email at the following email: jasonclarkagain@gmail.com.
+I want it to link to my books that I have written, which are on amazon at: https://www.amazon.com/stores/Jason-Clark/author/B073RLPYPV?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true.
+I want it linked to the songs I have written on soundcloud: https://m.soundcloud.com/jason-clark-716319682.
+
+I want this site super unique and I wanted to use some pretty intense javascript from the following point site: threejs.org.
+Use Javascript from the above site, use several of them. I want super cool transitions. I want this website to really stick out. Get super creative with it, color etc. I want hover effects with the mouse. It's something that really gets your attention, maybe throw some background sound. On it, but make sure you put a pause button. Somewhere on the front page, if you can throw some video in it, whatever makes this thing stand out, I want it to really pop out good

@@ -1,0 +1,71 @@
+{
+    "title": "Jason Clark - Creative Portfolio",
+    "sections": [
+        {
+            "id": "home",
+            "title": "Welcome to My Creative World",
+            "content": "Jason Clark - Innovator, Creator, Thinker.",
+            "interactive_elements": [
+                {
+                    "type": "canvas",
+                    "id": "boids-canvas",
+                    "description": "Flocking birds animation"
+                }
+            ]
+        },
+        {
+            "id": "resume",
+            "title": "Resume",
+            "content_path": "/home/ubuntu/resume_content.txt"
+        },
+        {
+            "id": "photography",
+            "title": "Photography",
+            "content": "Explore my nature photography. Visit my full gallery at <a href=\"https://www.frommyeyestoyours.org/\" target=\"_blank\">From My Eyes To Yours</a>.",
+            "gallery_path": "/home/ubuntu/portfolio_website/img/photography/"
+        },
+        {
+            "id": "books",
+            "title": "Books",
+            "content": "Discover my written works. Available on <a href=\"https://www.amazon.com/stores/Jason-Clark/author/B073RLPYPV?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true\" target=\"_blank\">Amazon</a>.",
+            "gallery_path": "/home/ubuntu/portfolio_website/img/books/"
+        },
+        {
+            "id": "music",
+            "title": "Music",
+            "content": "Listen to my original tracks on <a href=\"https://m.soundcloud.com/jason-clark-716319682\" target=\"_blank\">SoundCloud</a>.",
+            "music_path": "/home/ubuntu/portfolio_website/music/"
+        },
+        {
+            "id": "contact",
+            "title": "Contact Me",
+            "form_fields": [
+                {"name": "name", "type": "text", "label": "Name"},
+                {"name": "email", "type": "email", "label": "Email"},
+                {"name": "message", "type": "textarea", "label": "Message"}
+            ]
+        },
+        {
+            "id": "donate",
+            "title": "Support My Work",
+            "content": "If you appreciate my work, please consider supporting me through one of the following methods:",
+            "payment_options": [
+                {"name": "Crypto", "details": "BTC: [Your BTC Address]"},
+                {"name": "Venmo", "details": "@YourVenmoHandle"},
+                {"name": "Cash App", "details": "$YourCashTag"},
+                {"name": "PayPal", "details": "your.paypal.me/link"},
+                {"name": "Zelle", "details": "your_email_or_phone_for_zelle"},
+                {"name": "Visa/Mastercard", "details": "(Link to payment gateway or instructions)"}
+            ]
+        }
+    ],
+    "footer": {
+        "copyright": "&copy; 2025 Jason Clark. All rights reserved.",
+        "social_media": [
+            {"name": "Facebook", "link": "https://www.facebook.com/jasonclarkagain"},
+            {"name": "X", "link": "https://twitter.com/jasonclarkagain"},
+            {"name": "Pinterest", "link": "https://www.pinterest.com/jasonclarkagain/"}
+        ]
+    }
+}
+

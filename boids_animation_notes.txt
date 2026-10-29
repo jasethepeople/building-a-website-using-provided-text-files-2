@@ -1,0 +1,1 @@
+Okay, I have found several promising examples of flocking animations. I will now review them and select the most suitable one to integrate into your website. I'll focus on finding a solution that is both visually appealing and performs well across different browsers. I'll keep you updated on my progress and let you know once the animation is implemented on the homepage.
